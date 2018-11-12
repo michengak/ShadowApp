@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShadowApp", "ShadowApp\ShadowApp.csproj", "{CA28D1D2-E2F5-41D8-AF60-A7933EAE9E7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA28D1D2-E2F5-41D8-AF60-A7933EAE9E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA28D1D2-E2F5-41D8-AF60-A7933EAE9E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA28D1D2-E2F5-41D8-AF60-A7933EAE9E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA28D1D2-E2F5-41D8-AF60-A7933EAE9E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1BAE8AA-184C-4F1D-AD49-D75B9F465698}
+	EndGlobalSection
+EndGlobal
